@@ -1,4 +1,4 @@
-<img src="https://64.media.tumblr.com/196e5caf117c379ca8b4138f5061a9f2/tumblr_oz3l83lbxW1vghtqoo2_1280.gif" style="width: 100vw; object-fit: cover; object-position: center; margin: -10vw 0 0 -10vh;">
+<img src="https://i.pinimg.com/originals/70/82/63/70826360a72047abc1ff324e7df77b65.gif" style="width: 100vw; object-fit: cover; object-position: center; margin: -10vw 0 0 -10vh;">
 
 
 
