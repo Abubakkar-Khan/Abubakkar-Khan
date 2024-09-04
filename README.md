@@ -24,8 +24,8 @@
 
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=abubakkar-khan&show_icons=true&locale=en&theme=dark" alt="abubakkar-khan" style="flex: 1 1 45%; height: auto; max-height: 200px; width: 35%;"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakkar-khan&theme=dark" alt="abubakkar-khan" style="flex: 1 1 45%; height: auto; max-height: 200px; width: 35%;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=abubakkar-khan&show_icons=true&locale=en&theme=dark" alt="abubakkar-khan" style="flex: 1 1 45%; height: auto; max-height: 200px; width: 40%;"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakkar-khan&theme=dark" alt="abubakkar-khan" style="flex: 1 1 45%; height: auto; max-height: 200px; width: 40%;"/>
 </div>
 
 
