@@ -31,6 +31,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakkar-khan&show_icons=true&locale=en&layout=compact&theme=dark" alt="abubakkar-khan" />
 
+
 <img src="https://i.pinimg.com/564x/b1/f6/92/b1f692ecb1985d06769aca17f6bbab74.jpg" style="width: 20vw;">
 
 
