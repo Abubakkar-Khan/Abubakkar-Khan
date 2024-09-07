@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **abubakar.khan.official001@gmail.com**
 
-- ⚡ Fun fact **I'm on a mission to blend art and technology—whether it's coding, designing, or dreaming up the next big thing. 🚀**
+- ⚡ I'm on a mission **to blend art and technology—whether it's coding, designing, or dreaming up the next big thing. 🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
