@@ -36,7 +36,6 @@
 
 
 
-
 <div style="display: flex; justify-content: space-between; align-items: stretch; gap: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakkar-khan&show_icons=true&locale=en&layout=compact&theme=dark" alt="abubakkar-khan" style="height: 150px; width: auto; object-fit: cover;" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakkar-khan&theme=dark" alt="abubakkar-khan" style="height: 150px; width: auto; object-fit: cover;" />
