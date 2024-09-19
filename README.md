@@ -46,3 +46,10 @@
 <img src="https://i.pinimg.com/564x/b1/f6/92/b1f692ecb1985d06769aca17f6bbab74.jpg" style="width: 20vw;">
 
 
+
+<p align="center">
+<a href="https://gist.github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/{Aleksey-Voko}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
+</p>
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+
