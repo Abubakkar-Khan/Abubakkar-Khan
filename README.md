@@ -3,7 +3,7 @@
 
 <h3 align="center">Welcome to my GitHub! I'm a Computer Science major passionate about technology, design, and innovation. I'm currently sharpening my skills in coding and creative design while working on projects that push the limits of what's possible.</h3>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **AI**
 
 - 💬 Ask me about **UI/UX Design**
 
