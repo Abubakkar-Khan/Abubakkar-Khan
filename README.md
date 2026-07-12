@@ -1,44 +1,152 @@
-<h1 >༼ つ ◕_◕ ༽つ---Hi---👋, It's Abubakkar Khan -------------</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Muhammad+Abubakkar;Full-Stack+Developer;Computer+Science+Student;Building+Modern+Web+Applications" />
+</h1>
 
-<h3 align="center">Welcome to my GitHub! I'm a Computer Science major passionate about technology, design, and innovation. I'm currently sharpening my skills in coding and creative design while working on projects that push the limits of what's possible.</h3>
-
-- 🌱 I’m currently learning **AI**
-
-- 💬 Ask me about **UI/UX Design**
-
-- 📫 How to reach me **abubakar.khan.official001@gmail.com**
-
-- ⚡ I'm on a mission **to blend art and technology—whether it's coding, designing, or dreaming up the next big thing. 🚀**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abubakar-khan-cs2023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abubakar-khan-cs2023" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/Abubakkar-Khan">
+    <img src="https://img.shields.io/github/followers/Abubakkar-Khan?style=for-the-badge&color=0ff&labelColor=111111"/>
+  </a>
+  <a href="https://github.com/Abubakkar-Khan">
+    <img src="https://komarev.com/ghpvc/?username=Abubakkar-Khan&style=for-the-badge&color=blueviolet"/>
+  </a>
 </p>
 
+---
 
+## ⚡ About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> </a> 
+```ts
+const abubakkar = {
+    location: "Islamabad, Pakistan 🇵🇰",
+    education: "BS Computer Science @ IIUI",
+    currentFocus: [
+        "Artificial Intelligence",
+        "Full Stack Development",
+        "UI/UX Design"
+    ],
+    currentlyBuilding: "Production Web Applications",
+    askMeAbout: [
+        "Next.js",
+        "React",
+        "Node.js",
+        "Flask",
+        "UI/UX"
+    ],
+    funFact: "I love turning ideas into polished products."
+}
+```
+
+---
+
+## 🚀 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,html,css,lua,sql" />
 </p>
 
+### Frontend
 
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,figma" />
+</p>
 
-<div style="display: flex; justify-content: space-between; align-items: stretch; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakkar-khan&show_icons=true&locale=en&layout=compact&theme=dark" alt="abubakkar-khan" style="height: 150px; width: auto; object-fit: cover;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakkar-khan&theme=dark" alt="abubakkar-khan" style="height: 150px; width: auto; object-fit: cover;" />
-</div>
+### Backend
 
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,supabase" />
+</p>
 
+### Database
 
+<p>
+<img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,cloudflare" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,photoshop,ai,ps,godot" />
+</p>
+
+---
+
+## ✨ Current Focus
+
+- 🤖 Learning AI & LLM Development
+- 🌐 Building scalable Full Stack Apps
+- 🎨 Crafting modern UI/UX
+- 🚀 Deploying with Vercel & Supabase
+
+---
+
+## 🌟 Featured Projects
+
+### CSS IIUI
+> Full-stack Computer Science Society website
+
+**Next.js • PostgreSQL • Supabase • Cloudinary • Authentication • CRUD • REST APIs**
+
+🔗 https://github.com/Abubakkar-Khan/css_iiui
+
+---
+
+### Chat_FI
+
+Desktop Chat Application
+
+**Java • Swing • SQLite • WebSockets**
+
+🔗 https://github.com/Abubakkar-Khan/Chat_FI
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abubakkar-Khan&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Abubakkar-Khan&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abubakkar-Khan&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+🏅 Frontend Intern — National IT Board (NITB)
+
+🚀 Technical Lead — Computer Science Society IIUI
+
+🌐 Lead — Google Developer Groups on Campus IIUI
+
+🎓 Meta Front-End Developer
+
+🎓 Harvard CS50x
+
+---
+
+## 🌍 Connect
+
+<p align="center">
+<a href="https://linkedin.com/in/abubakar-khan-cs2023"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="mailto:abubakar.khan.official001@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="https://github.com/Abubakkar-Khan"><img src="https://skillicons.dev/icons?i=github"/></a>
+</p>
+
+---
+
+<p align="center">
+
+> **"Code. Design. Build. Repeat."**
+
+</p>
