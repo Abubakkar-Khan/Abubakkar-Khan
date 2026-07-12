@@ -1,261 +1,128 @@
-<div align="center">
-
-```text
- █████╗ ██████╗ ██╗   ██╗██████╗  █████╗ ██╗  ██╗ █████╗ ██████╗
-██╔══██╗██╔══██╗██║   ██║██╔══██╗██╔══██╗██║ ██╔╝██╔══██╗██╔══██╗
-███████║██████╔╝██║   ██║██████╔╝███████║█████╔╝ ███████║██████╔╝
-██╔══██║██╔══██╗██║   ██║██╔══██╗██╔══██║██╔═██╗ ██╔══██║██╔══██╗
-██║  ██║██████╔╝╚██████╔╝██████╔╝██║  ██║██║  ██╗██║  ██║██║  ██║
-╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-```
-
-# ⌐■_■ Muhammad Abubakkar
-
-### building software that feels as good as it looks.
-
-<a href="mailto:abubakar.khan.official001@gmail.com">
-<img src="https://img.shields.io/badge/email-0D1117?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Abubakkar-Khan">
-<img src="https://img.shields.io/badge/github-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/abubakar-khan-cs2023">
-<img src="https://img.shields.io/badge/linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-
-</div>
-
-<br>
-
-```text
-> Full Stack Developer
-
-Designing interfaces.
-Building backend systems.
-Exploring AI.
-Always shipping.
-```
-
----
-
-# Tech Stack
-
-<div align="center">
-
-### Languages
-
-<a href="https://en.cppreference.com/w/c">
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-</a>
-
-<a href="https://isocpp.org/">
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-</a>
-
-<a href="https://www.java.com/">
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-</a>
-
-<a href="https://developer.mozilla.org/docs/Web/JavaScript">
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-</a>
-
-<a href="https://www.typescriptlang.org/">
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-</a>
-
-<a href="https://www.python.org/">
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-</a>
-
-<a href="https://numpy.org/">
-<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"/>
-</a>
-
-<a href="https://www.lua.org/">
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"/>
-</a>
-
-<br><br>
-
-### Frontend
-
-<a href="https://react.dev">
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-</a>
-
-<a href="https://nextjs.org">
-<img height="45" src="https://cdn.simpleicons.org/nextdotjs/white"/>
-</a>
-
-<a href="https://tailwindcss.com">
-<img height="45" src="https://cdn.simpleicons.org/tailwindcss"/>
-</a>
-
-<a href="https://getbootstrap.com">
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-</a>
-
-<a href="https://developer.mozilla.org/docs/Web/HTML">
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-</a>
-
-<a href="https://developer.mozilla.org/docs/Web/CSS">
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-</a>
-
-<br><br>
-
-### Backend & Database
-
-<a href="https://nodejs.org">
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-</a>
-
-<a href="https://expressjs.com">
-<img height="45" src="https://cdn.simpleicons.org/express/white"/>
-</a>
-
-<a href="https://flask.palletsprojects.com">
-<img height="45" src="https://cdn.simpleicons.org/flask/white"/>
-</a>
-
-<a href="https://supabase.com">
-<img height="45" src="https://cdn.simpleicons.org/supabase"/>
-</a>
-
-<a href="https://www.postgresql.org">
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-</a>
-
-<a href="https://sqlite.org">
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
-</a>
-
-<br><br>
-
-### Tools
-
-<a href="https://git-scm.com">
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-</a>
-
-<a href="https://github.com">
-<img height="45" src="https://cdn.simpleicons.org/github/white"/>
-</a>
-
-<a href="https://vercel.com">
-<img height="45" src="https://cdn.simpleicons.org/vercel/white"/>
-</a>
-
-<a href="https://godotengine.org">
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg"/>
-</a>
-
-<a href="https://www.figma.com">
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-</a>
-
-<a href="https://www.adobe.com/products/photoshop.html">
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
-</a>
-
-<a href="https://openai.com/codex">
-<img height="45" src="https://cdn.simpleicons.org/openai/white"/>
-</a>
-
-</div>
-
----
-# Activity
-
-<div align="center">
-
-<img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Abubakkar-Khan&theme=github-dark&hide_border=true&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&area_color=00E5FF"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-    width="92%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abubakkar-Khan&theme=github_dark"
-/>
-
-</div>
-
----
-
-# Current
-
-```txt
-> Building modern full-stack web applications
-
-> Learning AI & local LLMs
-
-> Creating interfaces that people enjoy using
-
-> Constantly breaking and rebuilding side projects
-```
-
----
-
-# Philosophy
-
-```txt
-while (alive) {
-
-    learn();
-
-    build();
-
-    break();
-
-    improve();
-
+<!--
+if (view_source) {
+    console.log("Curiosity detected. Welcome. (⌐■_■)");
+    console.log("Fun fact: you're now in the 1% who reads raw markdown.");
 }
-```
-
----
-
-# Elsewhere
+-->
 
 <div align="center">
 
-<a href="mailto:abubakar.khan.official001@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="./abu.jpg" width="100%" alt="Banner">
 
-<a href="https://github.com/Abubakkar-Khan">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<br><br>
 
-<a href="https://linkedin.com/in/abubakar-khan-cs2023">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
+ABUBAKKAR KHAN <sub>(⌐■_■)</sub>
+
+### *Engineering ideas into thoughtful software.*
+
+`Computer Science` · `Full-Stack` · `Design` · `AI`
+
+<br>
+
+[![Gmail](https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF)](mailto:abubakar.khan.official001@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/Abubakkar-Khan)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF)](https://linkedin.com/in/abubakar-khan-cs27)
 
 </div>
 
 <br>
 
+> *"Any sufficiently advanced software is indistinguishable from magic — until you read the stack trace."*
+
+<br>
+
+## ⟢ /manifest
+
+Building software where **engineering**, **design**, and **AI** meet, full-stack, from the database schema to the pixel on screen.
+
+```yaml
+focus:
+  - full-stack applications
+  - AI engineering & local LLMs
+  - system design
+  - developer experience
+  - clean, quiet interfaces
+
+status: 200 OK
+uptime: "since 2003, still compiling"
+```
+
+> *"Good software feels inevitable."*
+
+<br>
+
+## ⟢ /workbench
+
 <div align="center">
 
-```
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⡀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣦⡀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⠟⠉⠉⠻⣿⣿⡄
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⡇⠀⌐■_■⠀⢸⣿⣿
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣿⣧⣀⠀⠀⣀⣼⣿⠏
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣿⠟⠁
-```
+<img src="https://skillicons.dev/icons?theme=dark&i=c,cpp,java,js,ts,python,lua"/>
 
-**Thanks for stopping by.**
+<br><br>
+
+<img src="https://skillicons.dev/icons?theme=dark&i=react,nextjs,tailwind,nodejs,express,flask"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?theme=dark&i=postgresql,sqlite,supabase"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?theme=dark&i=git,github,vercel,vscode,figma,ps"/>
 
 </div>
+
+<br>
+
+## ⟢ /telemetry
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abubakkar-Khan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="165" src="https://streak-stats.demolab.com?user=Abubakkar-Khan&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abubakkar-Khan&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true"/>
+
+</div>
+
+<br>
+
+## ⟢ /uplink
+
+<div align="center">
+
+Open to interesting problems, good collaborators, and coffee-fueled builds.
+
+[![Gmail](https://img.shields.io/badge/-abubakar.khan.official001@gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=00E5FF)](mailto:abubakar.khan.official001@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### see you in another repository. `(⌐■_■)`
+
+`git commit -m "final"` — *narrator: it wasn't.*
+
+</div>
+
+<!--
+────────────────────────────────────────
+ACHIEVEMENT UNLOCKED: README Explorer 🏆
+
+"There are only two hard problems in CS:
+  • cache invalidation
+  • naming things
+  • off-by-one errors"
+
+>>> import antigravity
+>>> import this
+    "Simple is better than complex."
+
+42.
+The Force will be with you. Always.
+Winter is coming (so is the deadline).
+────────────────────────────────────────
+-->
