@@ -21,13 +21,11 @@
 <p align="center">
 
 <a href="mailto:abubakar.khan.official001@gmail.com">
-  <img src="./assets/email.svg" width="92">
+  <img src="./e.webp" width="48%" alt="Email">
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
 <a href="https://linkedin.com/in/abubakar-khan-cs27">
-  <img src="./assets/linkedin.svg" width="92">
+  <img src="./l.webp" width="48%" alt="LinkedIn">
 </a>
 
 </p>
