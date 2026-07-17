@@ -47,6 +47,6 @@ src="https://streak-stats.demolab.com?user=Abubakkar-Khan&hide_border=true&backg
 
 <img
 width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=Abubakkar-Khan&bg_color=000000&color=ffffff&line=ff003c&point=ffffff&area=true&area_color=ff003c&hide_border=true"/>
+src="https://github-readme-activity-graph.vercel.app/graph?username=Abubakkar-Khan&bg_color=000000&color=ffffff&line=ff003c&point=ffffff&area=true&area_color=ff003c&hide_border=true&cache_seconds=3600"/>
 
 </p>
