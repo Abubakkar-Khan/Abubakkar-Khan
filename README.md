@@ -34,9 +34,12 @@
 
 <p align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abubakkar-Khan/Abubakkar-Khan/output/github-contribution-grid-snake-dark.svg" width="100%">
-</p>
+<img
+  width="100%"
+  src="https://streak-stats.demolab.com?user=Abubakkar-Khan&theme=highcontrast&hide_border=true"
+  alt="GitHub Streak Stats"
+/>
+
 
 </p>
 
