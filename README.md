@@ -36,7 +36,7 @@
 
 <img
   width="100%"
-  src="https://streak-stats.demolab.com?user=Abubakkar-Khan&theme=highcontrast&hide_border=true"
+  src="https://streak-stats.demolab.com?user=Abubakkar-Khan&theme=radical&hide_border=true"
   alt="GitHub Streak Stats"
 />
 
