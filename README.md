@@ -33,13 +33,11 @@
 <br><br>
 
 <p align="center">
-
 <img
   width="100%"
-  src="https://streak-stats.demolab.com?user=Abubakkar-Khan&theme=radical&v=2"
+  src="https://streak-stats.demolab.com?user=Abubakkar-Khan&theme=dark&hide_border=true&background=0D0D0D&stroke=FF0000&ring=FF0000&fire=FFD400&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FFFFFF&dates=BDBDBD"
   alt="GitHub Streak Stats"
 />
-
 
 </p>
 
